@@ -1,2 +1,2 @@
 Hey! This is my very first GitHub project. I’ll be adding small codes, experiments, and ideas here as I start my journey in coding and open-source."
-i like black background 
+i like red background 
